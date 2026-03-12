@@ -2,31 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "www.youg.top/"
+    "link": "/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "www.youg.top/"
+    "link": "/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "www.youg.top/"
+    "link": "/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "www.youg.top/"
+    "link": "/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "www.youg.top/"
+    "link": "/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "www.youg.top/"
+    "link": "/"
   }
 ]
